@@ -1,0 +1,25 @@
+{
+  "name": "NodeJsLab01",
+  "version": "1.0.0",
+  "description": "'This is home task 01 for NodeJsLab'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlad9719/NodeJsLab01.git"
+  },
+  "author": "'Uladzislau Dauhashei'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlad9719/NodeJsLab01/issues"
+  },
+  "homepage": "https://github.com/vlad9719/NodeJsLab01#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "fs": "0.0.1-security"
+  },
+  "bin": "./index.js"
+}
