@@ -33,7 +33,7 @@ folder and paste it instead of ```<generated-file-N-name>``` below:
 
 ```
 node index.js wrtfile generatedFiles/<generated-file-1-name> 'Hello everyone'
-node index.js wrtfile generatedFiles/<generated-file-2-name> 'I'm CLI app'
+node index.js wrtfile generatedFiles/<generated-file-2-name> 'I am CLI app'
 node index.js wrtfile generatedFiles/<generated-file-3-name> 'Writing some text to files'
 //and so on
 ```
